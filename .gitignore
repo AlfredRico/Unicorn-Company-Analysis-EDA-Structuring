@@ -1,0 +1,77 @@
+# =========================
+# PYTHON
+# =========================
+__pycache__/
+*.py[oc]
+*.pyo
+*.pyd
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+wheels/
+
+# =========================
+# VIRTUAL ENVIRONMENT
+# =========================
+.venv/
+env/
+venv/
+
+# =========================
+# ENV / PYTHON VERSION
+# =========================
+.python-version
+
+# =========================
+# JUPYTER
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# DATA FILES (IMPORTANT)
+# =========================
+data/*
+*.csv
+*.parquet
+*.xlsx
+*.json
+*.zip
+
+# ALLOWED
+!data/Unicorn_Companies.csv
+
+# =========================
+# OUTPUTS / GENERATED FILES
+# =========================
+outputs/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# =========================
+# SCRATCH / TEMP FILES
+# =========================
+scratch/
+temp/
+*.log
+
+# =========================
+# OS FILES
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE / EDITOR
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OPTIONAL: KEEP SAMPLE DATA
+# =========================
+# Uncomment if needed:
+# !data/sample.csv
