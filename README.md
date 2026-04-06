@@ -40,10 +40,12 @@ The dataset is included in the `data/` folder.
 ```
 unicorn_pt2/
 ├── data/Unicorn_Companies.csv
-├── unicorn_analysis.ipynb
+├── .gitignore
+├── README.md
+├── index.html
 ├── pyproject.toml
-├── uv.lock
-└── README.md
+├── unicorn_analysis.ipynb
+└── uv.lock
 ```
 
 ---
