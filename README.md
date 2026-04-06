@@ -18,7 +18,7 @@ This project analyzes unicorn companies (valued at $1B+) with a focus on structu
 
 ## Reproducibility
 
-## Run Locally (UV)
+### Run Locally (UV)
 
 ```bash
 git clone https://github.com/AlfredRico/Unicorn-Company-Analysis-EDA-Structuring.git
